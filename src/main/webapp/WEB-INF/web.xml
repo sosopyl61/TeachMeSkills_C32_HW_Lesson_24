@@ -1,0 +1,23 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <context-param>
+    <param-name>appName</param-name>
+    <param-value>My application</param-value>
+  </context-param>
+  <context-param>
+    <param-name>appVersion</param-name>
+    <param-value>1.0.0</param-value>
+  </context-param>
+  <context-param>
+    <param-name>developerName</param-name>
+    <param-value>Rymtsou Illia</param-value>
+  </context-param>
+  <context-param>
+    <param-name>supportEmail</param-name>
+    <param-value>rimtsov.ilya@gmail.com</param-value>
+  </context-param>
+</web-app>
